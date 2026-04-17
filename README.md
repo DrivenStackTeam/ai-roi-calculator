@@ -4,4 +4,4 @@ A dynamic ROI calculator designed to help businesses estimate lost revenue from 
 
 ## Website View
 
-![Project View](<UI.png>)
+![Project View](public/UI.png)
